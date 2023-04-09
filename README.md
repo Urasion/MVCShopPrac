@@ -16,5 +16,5 @@
 
 # 시연
 <p align="center">
-  <img src="![2023-04-09 17-29-29](https://user-images.githubusercontent.com/76836188/230762694-bc47544e-39f2-413d-8153-40649200dfbf.gif)">
+  <img src="https://user-images.githubusercontent.com/76836188/230762694-bc47544e-39f2-413d-8153-40649200dfbf.gif">
 </p>
